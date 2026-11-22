@@ -1,4 +1,4 @@
-# Website SIKUM (Sistem Informasi Keuangan UMKM)
+# Website SPK dengan AHP dan SAW
 ### Implementasi dengan Laravel 12 dan Boostrap 5 (Template SNEAT)
 
 ## SETUP
